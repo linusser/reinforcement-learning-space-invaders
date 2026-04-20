@@ -1,0 +1,13 @@
+# requirements.in
+numpy
+pandas
+matplotlib
+seaborn
+gymnasium[atari]
+torch
+stable-baselines3[extra]
+jupyterlab
+ipykernel
+ipywidgets
+imageio
+imageio-ffmpeg
